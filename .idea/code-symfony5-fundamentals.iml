@@ -24,8 +24,6 @@
       <excludeFolder url="file://$MODULE_DIR$/start/vendor/symfony/dependency-injection" />
       <excludeFolder url="file://$MODULE_DIR$/start/vendor/symfony/service-contracts" />
       <excludeFolder url="file://$MODULE_DIR$/start/vendor/symfony/var-dumper" />
-      <excludeFolder url="file://$MODULE_DIR$/start/vendor/symfony/profiler-pack" />
-      <excludeFolder url="file://$MODULE_DIR$/start/vendor/symfony/twig-pack" />
       <excludeFolder url="file://$MODULE_DIR$/start/vendor/symfony/debug-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/start/vendor/psr/cache" />
       <excludeFolder url="file://$MODULE_DIR$/start/vendor/symfony/routing" />
@@ -56,6 +54,8 @@
       <excludeFolder url="file://$MODULE_DIR$/start/vendor/symfony/stopwatch" />
       <excludeFolder url="file://$MODULE_DIR$/start/vendor/symfony/var-exporter" />
       <excludeFolder url="file://$MODULE_DIR$/start/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/start/vendor/michelf/php-markdown" />
+      <excludeFolder url="file://$MODULE_DIR$/start/vendor/knplabs/knp-markdown-bundle" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
